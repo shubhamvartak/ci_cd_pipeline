@@ -42,4 +42,4 @@ print("Status Code:", response.status_code)
 try:
     print("Response JSON:", response.json())
 except Exception as e:
-    print("Error parsing response:", e)
+    print("Error parsing responsess:", e)
